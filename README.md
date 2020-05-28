@@ -171,3 +171,8 @@ If you want to contribute a translation, please follow [the guide here](https://
 # License
 Streama is distributed under the terms of the MIT license.
 See [LICENSE.md](https://github.com/streamaserver/streama/blob/master/LICENSE.md) for details.
+
+
+
+
+Thi is netflix type code installation on instance is better.
